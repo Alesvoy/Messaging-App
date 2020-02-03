@@ -1,0 +1,16 @@
+{
+  "name": "messagingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "nodemon": "^2.0.2",
+    "socket.io": "^2.3.0"
+  }
+}
